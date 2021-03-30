@@ -4,7 +4,7 @@ Personal Portfolio can be found at:
 [Spencer's Portfolio](https://swwportfolio.com)
 
 
-# languages:
+# Languages:
 HTML - Bootstrap
 CSS
 JavaScript
