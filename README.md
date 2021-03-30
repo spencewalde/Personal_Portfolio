@@ -1,11 +1,17 @@
 # Personal_Portfolio
 
-
-Personal Portfolio can be found at 
-
-swwportfolio.com
+Personal Portfolio can be found at:
+[Spencer's Portfolio](https://swwportfolio.com)
 
 
-used AWS and Ubuntu to host website
+# languages:
+HTML - Bootstrap
+CSS
+JavaScript
+
+# Hosted using
+ AWS
+ Ubuntu
+ 
 
 Displays professional and personal information on a resume page and transitions to a portfolio with some highlighted projects on it.
